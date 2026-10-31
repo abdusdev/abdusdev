@@ -41,7 +41,7 @@ Backend developer who also works across the frontend, testing and delivery. I bu
 </tr>
 <tr>
 <td align="center"><sub>BACKEND</sub></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=10" alt="backend" /></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=10" alt="backend" /> <img src="bullmq.svg" width="48" height="48" alt="BullMQ" /></td>
 </tr>
 <tr>
 <td align="center"><sub>FRONTEND</sub></td>
@@ -57,7 +57,7 @@ Backend developer who also works across the frontend, testing and delivery. I bu
 </tr>
 <tr>
 <td align="center"><sub>CLOUD / DEVOPS</sub></td>
-<td><img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,githubactions&perline=10" alt="devops" /> <img src="vps.svg" width="48" height="48" alt="VPS" /></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,githubactions&perline=10" alt="devops" /></td>
 </tr>
 </table>
 
