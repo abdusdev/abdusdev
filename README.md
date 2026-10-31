@@ -53,7 +53,7 @@ Backend developer who also works across the frontend, testing and delivery. I bu
 </tr>
 <tr>
 <td align="center"><sub>TESTING</sub></td>
-<td><img src="https://skillicons.dev/icons?i=playwright&perline=10" alt="testing" /></td>
+<td><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" /></td>
 </tr>
 <tr>
 <td align="center"><sub>CI/CD / DEVOPS</sub></td>
