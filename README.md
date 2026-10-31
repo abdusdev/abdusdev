@@ -45,7 +45,7 @@ Backend developer who also works across the frontend, testing and delivery. I bu
 </tr>
 <tr>
 <td align="center"><sub>FRONTEND</sub></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs&perline=10" alt="frontend" /></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&perline=10" alt="frontend" /></td>
 </tr>
 <tr>
 <td align="center"><sub>DATABASES</sub></td>
@@ -56,8 +56,12 @@ Backend developer who also works across the frontend, testing and delivery. I bu
 <td><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" /></td>
 </tr>
 <tr>
-<td align="center"><sub>CI/CD / DEVOPS</sub></td>
-<td><img src="https://skillicons.dev/icons?i=githubactions,docker,git&perline=10" alt="devops" /></td>
+<td align="center"><sub>CLOUD / DEVOPS</sub></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,ubuntu,githubactions,vercel&perline=10" alt="devops" /></td>
+</tr>
+<tr>
+<td align="center"><sub>QA / TOOLS</sub></td>
+<td><img src="https://skillicons.dev/icons?i=postman,jest,vscode&perline=10" alt="qa-tools" /></td>
 </tr>
 </table>
 
