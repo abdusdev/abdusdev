@@ -53,15 +53,11 @@ Backend developer who also works across the frontend, testing and delivery. I bu
 </tr>
 <tr>
 <td align="center"><sub>TESTING</sub></td>
-<td><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" /> <img src="https://skillicons.dev/icons?i=jest,postman&perline=10" alt="Jest, Postman" /></td>
 </tr>
 <tr>
 <td align="center"><sub>CLOUD / DEVOPS</sub></td>
 <td><img src="https://skillicons.dev/icons?i=docker,git,ubuntu,githubactions,vercel&perline=10" alt="devops" /></td>
-</tr>
-<tr>
-<td align="center"><sub>QA / TOOLS</sub></td>
-<td><img src="https://skillicons.dev/icons?i=postman,jest,vscode&perline=10" alt="qa-tools" /></td>
 </tr>
 </table>
 
