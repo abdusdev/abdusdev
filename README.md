@@ -1,6 +1,6 @@
 # Abdus Salam
 
-I design and build backend systems: REST APIs, data models and background job pipelines. Then I test them end to end and ship them with CI/CD.
+Backend-focused full-stack developer building scalable, efficient backend solutions, APIs and databases.
 
 ---
 
