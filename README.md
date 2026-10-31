@@ -49,7 +49,7 @@ Backend developer who also works across the frontend, testing and delivery. I bu
 </tr>
 <tr>
 <td align="center"><sub>DATABASES</sub></td>
-<td><img src="https://skillicons.dev/icons?i=mongodb&perline=10" alt="databases" /></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&perline=10" alt="databases" /></td>
 </tr>
 <tr>
 <td align="center"><sub>TESTING</sub></td>
@@ -57,7 +57,7 @@ Backend developer who also works across the frontend, testing and delivery. I bu
 </tr>
 <tr>
 <td align="center"><sub>CI/CD / DEVOPS</sub></td>
-<td><img src="https://skillicons.dev/icons?i=githubactions,git&perline=10" alt="devops" /></td>
+<td><img src="https://skillicons.dev/icons?i=githubactions,docker,git&perline=10" alt="devops" /></td>
 </tr>
 </table>
 
