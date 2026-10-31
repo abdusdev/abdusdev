@@ -57,7 +57,7 @@ Backend developer who also works across the frontend, testing and delivery. I bu
 </tr>
 <tr>
 <td align="center"><sub>CLOUD / DEVOPS</sub></td>
-<td><img src="https://skillicons.dev/icons?i=docker,git,linux,githubactions&perline=10" alt="devops" /> <img src="vps.svg" width="48" height="48" alt="VPS" /></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,githubactions&perline=10" alt="devops" /> <img src="vps.svg" width="48" height="48" alt="VPS" /></td>
 </tr>
 </table>
 
