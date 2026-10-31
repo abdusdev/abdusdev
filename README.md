@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abdul Salam
+# Abdus Salam
 
 **Backend Developer** · APIs · Databases · Test Automation · CI/CD
 
