@@ -18,5 +18,3 @@ Backend Developer at 99 Technologies.
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
-
-[Portfolio](https://abdusdev.com) · [Email](mailto:abdus.salam@99technologies.com)
