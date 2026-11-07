@@ -16,7 +16,6 @@ I care about software that keeps working after launch. That means data that is n
 ### Tools I use
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,postgres,redis,docker,nginx,linux,git,githubactions&perline=11" alt="Tech stack" />
 
-Now: Backend Developer at 99 Technologies
-[Portfolio](https://abdusdev.com) · abdus.salam@99technologies.com
-
-*Projects and live demos are coming soon.*
+Backend Developer at 99 Technologies
+[Portfolio](https://abdusdev.com) ·
+abdus.salam@99technologies.com
