@@ -1,4 +1,4 @@
-# Abdul Salam
+# Abdus Salam
 
 **I build whole systems, not just pieces of them.**
 Backend developer who works across the full stack. I take a problem and turn it into software that runs: designed, built, deployed, monitored, and fixed when it breaks.
