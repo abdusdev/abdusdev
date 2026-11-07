@@ -6,11 +6,11 @@ I care about reliability, clean design, and software that holds up in production
 <table align="center">
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" width="130" alt="Frontend" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&perline=4" width="175" alt="Frontend" /></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=3" width="130" alt="Backend" />&nbsp;<img src="bullmq.png" width="38" height="38" alt="BullMQ" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql&perline=4" width="175" alt="Backend" />&nbsp;<img src="bullmq.png" width="38" height="38" alt="BullMQ" /></td>
   </tr>
   <tr>
     <td><b>Database</b></td>
