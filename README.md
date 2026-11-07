@@ -5,16 +5,24 @@ I care about reliability, clean design, and software that holds up in production
 
 <table align="center">
   <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Database</th>
-    <th>DevOps</th>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" width="130" alt="Frontend" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" width="130" alt="Frontend" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js,nodejs,express,nestjs&perline=4" width="175" alt="Backend" />&nbsp;<img src="bullmq.png" width="38" height="38" alt="BullMQ" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=4" width="175" alt="Database" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,git&perline=5" width="220" alt="DevOps" /></td>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=3" width="130" alt="Backend" />&nbsp;<img src="bullmq.png" width="38" height="38" alt="BullMQ" /></td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=4" width="175" alt="Database" /></td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,git&perline=5" width="220" alt="DevOps" /></td>
+  </tr>
+  <tr>
+    <td><b>Testing</b></td>
+    <td><img src="https://skillicons.dev/icons?i=jest,postman&perline=2" width="84" alt="Testing" />&nbsp;<img src="playwright.svg" width="38" height="38" alt="Playwright" /></td>
   </tr>
 </table>
 
