@@ -1,21 +1,22 @@
 # Abdus Salam
 
-**I build systems and stay with them after launch.**
-Backend first, full stack when needed: designed, deployed, watched, and fixed when they break.
+I build backend systems for many customers at once: bookings, payments, delivery tracking, and the shop integrations and deployments that keep them running.
+Backend Developer at 99 Technologies.
 
-### What I work on
-- **Backend systems:** many user roles, money flows and careful records, built with Node.js, Express, NestJS, PostgreSQL and MongoDB.
-- **Platforms for many customers:** one product where each customer is fully separated, with their own database and address.
-- **Background work and speed:** queues and caching so heavy tasks never slow people down, using BullMQ and Redis.
-- **Connecting services:** linking shops, payments and tools so work happens automatically, through webhooks and signed requests.
-- **Shipping and running it:** Docker, Nginx and Linux servers, GitHub Actions deploys with health checks and automatic rollback.
-- **Interfaces:** fast, clear web apps built with React and Next.js.
-
-<h3 align="center">Tools I use</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,nestjs,react,nextjs,postgres,mongodb,redis,docker,nginx,linux,git,githubactions&perline=14" alt="Tech stack" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-Backend Developer at 99 Technologies
-[Portfolio](https://abdusdev.com) ·
-abdus.salam@99technologies.com
+[Portfolio](https://abdusdev.com) · [Email](mailto:abdus.salam@99technologies.com)
