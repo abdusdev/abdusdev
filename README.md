@@ -18,7 +18,3 @@ I care about reliability, clean design, and software that holds up in production
 <p align="center">
   <img src="assets/label-testing.svg" width="80" height="38" alt="Testing" />&ensp;<img src="https://skillicons.dev/icons?i=jest,postman&perline=2" width="84" alt="Jest, Postman" />&ensp;<img src="playwright.svg" width="38" height="38" alt="Playwright" />&ensp;<img src="spacer.png" height="1" alt="" width="92" />
 </p>
-
-<p align="center">
-  Backend Developer · abdus.salam&#64;99technologies.com
-</p>
